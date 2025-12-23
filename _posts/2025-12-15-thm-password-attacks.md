@@ -11,10 +11,12 @@ image:
 ---
 
 [Sound track - algorithm is a lie // ambient dub techno playlist](https://youtu.be/KsNHzmcxjY4)
+
 [Sound track - follow the sound, deeper underground | ambient deep techno mix](https://youtu.be/FiYK75-6Y0A)
+
 [Sound track - escape the matrix. | ambient deep techno mix](https://youtu.be/UEt4_LNURbw)
-[Room link ](https://tryhackme.com/room/passwordattacks)
-Time To Complete:
+
+[Room link ](https://tryhackme.com/room/passwordattacks) Time To Complete:
 
 # Information text
 
