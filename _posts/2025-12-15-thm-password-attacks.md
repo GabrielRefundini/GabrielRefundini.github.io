@@ -1,22 +1,24 @@
 ---
 layout: post
-title: "TryHackMe: Passwords - A Cracking Christmas"
+title: "TryHackMe: Password Attacks"
 date: 2025-12-12 17:33:44 -0300
 categories: TryHackMe CTF
-tags: crack password
+tags: crack
 author: yaza
 media_subpath:
 image:
   path: /Pastedimage20251212195644.png
 ---
 
-[Sound track - algorithm is a lie // ambient dub techno playlist](https://youtu.be/KsNHzmcxjY4)
+This room introduces the fundamental techniques to perform a successful password attack against various services and scenarios.
 
-[Sound track - follow the sound, deeper underground | ambient deep techno mix](https://youtu.be/FiYK75-6Y0A)
-
-[Sound track - escape the matrix. | ambient deep techno mix](https://youtu.be/UEt4_LNURbw)
-
-[Room link ](https://tryhackme.com/room/passwordattacks) Time To Complete:
+[Sound track - algorithm is a lie // ambient dub techno playlist](https://youtu.be/KsNHzmcxjY4){:target="\_blank"}
+<br>
+[Sound track - follow the sound, deeper underground | ambient deep techno mix](https://youtu.be/FiYK75-6Y0A){:target="\_blank"}
+<br>
+[Sound track - escape the matrix. | ambient deep techno mix](https://youtu.be/UEt4_LNURbw){:target="\_blank"}
+<br>
+[Room link](https://tryhackme.com/room/passwordattacks){:target="\_blank"} Time To Complete:
 
 # Information text
 
