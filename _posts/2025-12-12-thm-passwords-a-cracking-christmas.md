@@ -11,6 +11,7 @@ image:
 ---
 
 Damn, its a rainy cloudy start of the night.. perfect vibe.
+
 Learn how to crack password-based encrypted files.
 
 [Room Link](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)
